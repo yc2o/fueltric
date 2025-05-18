@@ -1,3 +1,3 @@
 # fueltric
 
-A new Flutter project.
+GRIZZ app
