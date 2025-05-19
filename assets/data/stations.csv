@@ -1,0 +1,95 @@
+id,name,address,city,latitude,longitude,district,population
+1,SPBU Pertamina 54.601.100,Jl. Ngagel No. 185, Surabaya,-7.29659,112.74329,Jambangan,53639
+2,SPBU Pertamina 54.602.68,Jl. Joyoboyo No. 53, Surabaya,-7.29897, 112.73213,Jambangan,53639
+3,SPBU Pertamina 54.601.80,Jl. Achmad Yani No. 204, Surabaya,-7.33379, 112.73115,Gubeng,133900
+4,SPBU Pertamina 54.601.90,Jl. Gubeng, Surabaya,-7.26822, 112.75100,Gubeng,133900
+5,SPBU Pertamina Jemursari,Jl. Raya Jemursari No. 113-123, Surabaya,-7.31997, 112.74743,Jambangan,53639
+6,SPBU Pertamina 54.602.13,Jl. Mayjen Sungkono No. 47, Surabaya,-7.29176, 112.72379,Sukomanunggal,87234
+7,SPBU 51.601.65,Jl. Dupak No. 15, Surabaya,-7.310000,112.740000,Bubutan,97707
+8,SPBU 54.60257,Jl. Raya Jemursari No. 194, Surabaya,-7.300500,112.756000,Wonokromo,112345
+9,SPBU 54.602.64,Jl. Panjang Jiwo No. 54, Surabaya,-7.295500,112.748000,Jambangan,53639
+10,SPBU 51.601.108,Jl. Raya Mastrip, Surabaya,-7.310500,112.750500,Karang Pilang,65432
+11,SPBU 51.601.118,Jl. Raya Laguna KJW Putih Tambak No. 2, Surabaya,-7.320000,112.760000,Mulyorejo,86824
+12,SPBU 54.601.107,Jl. Raya Kebonsari, Surabaya,-7.330000,112.765000,Jambangan,53639
+13,Shell Citraland 1 Surabaya,Jl. Radial Road Blok CA-18, Surabaya,-7.345000,112.745000,Lakarsantri,78900
+14,Shell Jemursari 1 Surabaya,Jl. Jemursari No. 155, Surabaya,-7.350000,112.755000,Wonokromo,112345
+15,Shell Kalijudan Surabaya,Jl. Kalijudan No. 24, Surabaya,-7.320500,112.730000,Mulyorejo,86824
+16,Shell Kenjeran 1 Surabaya,Jl. Kenjeran No. 591, Surabaya,-7.310500,112.720000,Kenjeran,177561
+17,Shell Ahmad Yani,Jl. Ahmad Yani No. 36-38, Surabaya,-7.300500,112.735500,Gubeng,133900
+18,Shell Mayjen Sungkono,Jl. Mayjen Sungkono No. 20, Surabaya,-7.295000,112.740500,Sukomanunggal,87234
+19,Shell Prapen,Jl. Raya Prapen No. 46-48, Surabaya,-7.285000,112.745500,Gubeng,133900
+20,Shell Waru,Jl. Raya Waru No. 1, Surabaya,-7.280000,112.750500,Waru,95432
+21,Shell Pemuda Central-1, Surabaya,Jl. Pemuda RT 003/RW 1Surabaya,-7.26573899779243, 112.74840393992243,Genteng,58601
+22,Shell Dupak-1 Surabaya,Jl. Dupak No. 81, Surabaya,-7.265500,112.740000,Bubutan,97707
+23,Shell Diponegoro-1 Surabaya,Jl. Diponegoro, Surabaya,-7.280500,112.745000,Tegalsari,98484
+24,BP Gubeng,Jl. Raya Gubeng No. 39A-41, Surabaya,-7.310500,112.760500,Gubeng,133900
+25,BP Kertajaya,Jl. Kertajaya No. 132 Blok S 301-303, Surabaya,-7.315000,112.765000,Gubeng,133900
+26,SPBU 54.602.45 HR Muhammad,Jl. HR Muhammad No. 113, Surabaya,-7.284457,112.691144,Sukolilo,72345
+27,SPBU 54.601.06 Dharma Husada,Jl. Dharma Husada No. 114-116, Surabaya,-7.266804,112.768252,Gubeng,133900
+28,SPBU 54.602.69 Klampis,Jl. Klampis Jaya No. 19, Surabaya,-7.286394,112.775689,Sukolilo,72345
+29,SPBU 54.602.62 Menganti,Jl. Raya Menganti No. 250, Surabaya,-7.335000,112.755000,Wiyung,65400
+30,SPBU 54.602.72 Lontar,Jl. Raya Lontar No. 123, Surabaya,-7.340000,112.750000,Lakarsantri,78900
+31,SPBU 54.601.92 Tegalsari,Jl. Tegalsari No. 43-45, Surabaya,-7.345500,112.740000,Tegalsari,98484
+32,SPBU 54.602.59 Mayjend Sungkono,Jl. Mayjend Sungkono No. 147, Surabaya,-7.350500,112.745000,Sukomanunggal,87234
+33,SPBU 54.602.63 HR Muhammad,Jl. HR Muhammad No. 48-50, Surabaya,-7.355000,112.750000,Sukolilo,72345
+34,SPBU 54.601.124 Ketintang Madya,Jl. Ketintang Madya No. 53, Surabaya,-7.365000,112.760000,Gayungan,43617
+35,SPBU 54.601.66 Dupak,Jl. Dupak No. 15, Surabaya,-7.370000,112.765000,Bubutan,97707
+36,SPBU 54.601.77 Dr. Soetomo,Jl. Dr. Soetomo, Surabaya,-7.375000,112.770000,Tegalsari,98484
+37,SPBU 54.601.125 Bubutan,Jl. Bubutan No. 72-76, Surabaya,-7.380000,112.775000,Bubutan,97707
+38,SPBU 54.601.102 Mulyosari,Jl. Raya Mulyosari, Surabaya,-7.385000,112.780000,Mulyorejo,86824
+39,SPBU 54.601.113 MERR Kalijudan,Jl. MERR Kalijudan, Surabaya,-7.390000,112.785000,Mulyorejo,86824
+40,SPBU 54.601.128 Karangasem,Jl. Raya Karangasem, Surabaya,-7.395000,112.790000,Lakarsantri,78900
+41,SPBU 54.601.128 Karangasem,Jl. Raya Karangasem, Surabaya,-7.395000,112.790000,Lakarsantri,78900
+42,SPBU 54.601.119 Lontar Lidah Kulon,Jl. Lontar, Surabaya,-7.400000,112.795000,Lakarsantri,78900
+43,SPBU 54.601.266 Bandar Juanda,Jl. Raya Bandar Juanda, Surabaya,-7.405000,112.800000,Sukodono,65400
+44,SPKLU PLN Embong Wungu,Jl. Dr. Soetomo No. 42, Surabaya,-7.410000,112.805000,Tegalsari,98484
+45,SPKLU PLN WTC Surabaya Mall,Jl. Pemuda No. 209, Surabaya,-7.415000,112.810000,Genteng,58601
+46,SPKLU Dyandra Convention Center,Jl. Basuki Rahmat No. 93, Surabaya,-7.420000,112.815000,Genteng,58601
+47,SPKLU Hotel Santika Premiere,Jl. Raya Gubeng No. 10, Surabaya,-7.425000,112.820000,Gubeng,133900
+48,SPBU Pertamina Raya Banjar Sugihan,Jl. Raya Banjar Sugihan No. 1-2, Surabaya,-7.242000,112.683500,Sukomanunggal,87234
+49,SPBU Pertamina Dupak Rukun,Jl. Dupak Rukun No. 110, Surabaya,-7.248500,112.726000,Bubutan,97707
+50,SPBU Pertamina Ambengan,Jl. Ambengan No. 16, Surabaya,-7.265500,112.750000,Tegalsari,98484
+51,SPBU Pertamina Tidar,Jl. Tidar, Surabaya,-7.258000,112.726500,Bubutan,97707
+52,SPBU Pertamina Pecindilan,Jl. Pecindilan No. 38, Surabaya,-7.265800,112.750200,Tegalsari,98484
+53,SPBU Pertamina Margorejo Indah,Jl. Margorejo Indah No. 70, Surabaya,-7.312500,112.742000,Gunung Anyar,45678
+54,SPBU Pertamina Lontar Lidah Kulon,Jl. Lontar Lidah Kulon, Surabaya,-7.290000,112.665000,Lakarsantri,78900
+55,SPBU Pertamina Kalianak,Jl. Kalianak, Surabaya,-7.242500,112.683000,Asemrowo,34567
+56,SPBU Pertamina Simo Pomahan,Jl. Simo Pomahan No. 23-27, Surabaya,-7.258500,112.726000,Bubutan,97707
+57,SPBU Pertamina Alun-Alun Priok,Jl. Alun-Alun Priok No. 02, Surabaya,-7.240000,112.730000,Bubutan,97707
+58,SPBU Pertamina Gresik Gadukan Timur,Jl. Gresik Gadukan Timur No. 1, Surabaya,-7.238000,112.726500,Asemrowo,34567
+59,SPBU Pertamina Margomulyo,Jl. Margomulyo, Surabaya,-7.242000,112.683500,Asemrowo,34567
+60,SPBU Pertamina Semarang,Jl. Semarang No. 94, Surabaya,-7.250000,112.730000,Bubutan,97707
+61,SPBU Pertamina Kenjeran,Jl. Kenjeran No. 118, Surabaya,-7.233500,112.759500,Kenjeran,177561
+62,SPBU Pertamina St Kota,Jl. St Kota No. 62A, Surabaya,-7.245000,112.735000,Bubutan,97707
+63,SPBU Pertamina Diponegoro,Jl. Diponegoro No. 221, Surabaya,-7.290000,112.730000,Sukomanunggal,87234
+64,SPBU Pertamina Kayon-Embong Kemiri,Jl. Kayon-Embong Kemiri No. 48, Surabaya,-7.265000,112.750000,Tegalsari,98484
+65,SPBU Pertamina Raya Lidah Wetan,Jl. Raya Lidah Wetan No. 139, Surabaya,-7.290000,112.665500,Lakarsantri,78900
+66,SPBU Pertamina Arief Rachman Hakim,Jl. Arief Rachman Hakim No. 150, Surabaya,-7.250000,112.790000,Mulyorejo,86824
+67,SPBU Pertamina Raya Pakal,Jl. Raya Pakal No. 104, Surabaya,-7.240000,112.650000,Pakal,23456
+68,SPBU Pertamina Dinoyo,Jl. Dinoyo No. 125, Surabaya,-7.265500,112.739500,Lowokwaru,67890
+69,SPBU Pertamina Raya Manyar,Jl. Raya Manyar No. 5D, Surabaya,-7.250000,112.790500,Mulyorejo,86824
+70,SPBU Pertamina Demak,Jl. Demak No. 152, Surabaya,-7.248000,112.726000,Bubutan,97707
+71,SPBU Pertamina Kusuma Bangsa,Jl. Kusuma Bangsa, Surabaya,-7.265000,112.750500,Tegalsari,98484
+72,SPBU Pertamina Kapas Krampung,Jl. Kapas Krampung No. 99, Surabaya,-7.259100,112.759400,Tegalsari,98484
+73,SPBU Pertamina Laksda M. Natsir,Jl. Laksda M. Natsir No. 27, Surabaya,-7.223600,112.730600,Asemrowo,34567
+74,SPBU BP Embong Malang,Jl. Embong Malang, Surabaya,-7.265400,112.737900,Tegalsari,98484
+75,SPKLU PLN Ketintang,Jl. Ketintang Baru No. 9, Surabaya,-7.312300,112.727900,Gayungan,43617
+76,SPKLU Dr. Soetomo,Jl. Dr. Soetomo No. 42, Surabaya,-7.275700,112.739000,Tegalsari,98484
+77,SPKLU Grand City Mall,Jl. Walikota Mustajab No. 1, Surabaya,-7.265900,112.750300,Genteng,58601
+78,SPKLU PT. PJB,Jl. Ketintang Baru No. 11, Surabaya,-7.312300,112.727900,Gayungan,43617
+79,SPBU Pertamina Sultan Iskandar Muda,Jl. Sultan Iskandar Muda No. 42, Surabaya,-7.250500,112.735500,Bubutan,97707
+80,SPBU Pertamina Kedung Cowek,Jl. Kedung Cowek No. 204, Surabaya,-7.223500,112.778000,Kenjeran,177561
+81,SPBU Pertamina Raya Lidah Wetan,Jl. Raya Lidah Wetan No. 139, Surabaya,-7.290000,112.665500,Lakarsantri,78900
+82,SPBU Pertamina Arief Rachman Hakim,Jl. Arief Rachman Hakim No. 150, Surabaya,-7.250000,112.790000,Mulyorejo,86824
+83,SPBU Pertamina Raya Pakal,Jl. Raya Pakal No. 104, Surabaya,-7.240000,112.650000,Pakal,23456
+84,SPBU Pertamina Dinoyo,Jl. Dinoyo No. 125, Surabaya,-7.265500,112.739500,Lowokwaru,67890
+85,SPBU Pertamina Raya Manyar,Jl. Raya Manyar No. 5D, Surabaya,-7.250000,112.790500,Mulyorejo,86824
+86,SPBU Pertamina Demak,Jl. Demak No. 152, Surabaya,-7.248000,112.726000,Bubutan,97707
+87,SPBU Pertamina Kusuma Bangsa,Jl. Kusuma Bangsa, Surabaya,-7.265000,112.750500,Tegalsari,98484
+88,SPBU Pertamina Kapas Krampung,Jl. Kapas Krampung No. 99, Surabaya,-7.259100,112.759400,Tegalsari,98484
+89,SPBU Pertamina Laksda M. Natsir,Jl. Laksda M. Natsir No. 27, Surabaya,-7.223600,112.730600,Asemrowo,34567
+90,SPBU BP Embong Malang,Jl. Embong Malang, Surabaya,-7.265400,112.737900,Tegalsari,98484
+91,SPKLU PLN Ketintang,Jl. Ketintang Baru No. 9, Surabaya,-7.312300,112.727900,Gayungan,43617
+92,SPKLU Dr. Soetomo,Jl. Dr. Soetomo No. 42, Surabaya,-7.275700,112.739000,Tegalsari,98484
+93,SPKLU Grand City Mall,Jl. Walikota Mustajab No. 1, Surabaya,-7.265900,112.750300,Genteng,58601
+94,SPKLU PT. PJB,Jl. Ketintang Baru No. 11, Surabaya,-7.312300,112.727900,Gayungan,43617
